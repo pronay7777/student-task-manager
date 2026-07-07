@@ -4,6 +4,12 @@ A simple and responsive Student Task Manager web application built using HTML, C
 
 The application helps students organize study tasks, track deadlines, manage priorities, and monitor task completion progress.
 
+## Live Demo
+
+View the deployed application here:
+
+https://pronay7777.github.io/student-task-manager/
+
 ## Features
 
 - Add new study tasks
@@ -75,3 +81,9 @@ While building this project, I learned:
 ## Author
 
 Pronay Mondal
+
+## Repository
+
+Source code is available on GitHub:
+
+https://github.com/pronay7777/student-task-manager
