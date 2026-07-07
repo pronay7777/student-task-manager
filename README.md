@@ -10,6 +10,11 @@ View the deployed application here:
 
 https://pronay7777.github.io/student-task-manager/
 
+## Project Screenshot
+
+![Student Task Manager Screenshot]
+![alt text](project-screenshot.png)
+
 ## Features
 
 - Add new study tasks
